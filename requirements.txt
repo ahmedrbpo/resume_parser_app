@@ -1,3 +1,6 @@
 streamlit
+streamlit-authenticator
+pyyaml
+pdfplumber
 docx2txt
-pdfminer.six
+bcrypt
